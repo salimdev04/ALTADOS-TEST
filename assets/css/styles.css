@@ -1,0 +1,26 @@
+table, th, td {
+    border: 1px solid black;
+}
+
+td{
+    padding: 10px;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+}
+li {
+    list-style: none;
+}
+
+form {
+    margin: 50px 0 50px 0;
+}
+.content {
+    margin: 20px;
+}
+
+.success {
+    color: green;
+}
